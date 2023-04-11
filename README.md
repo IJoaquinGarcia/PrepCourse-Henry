@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-ejemplo de modulo 2
+este proyecto es la prueba de como crear un repositorio y clonarlo desde github a mi escritorio
+
